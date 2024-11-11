@@ -8,11 +8,11 @@ class SobrePage extends StatelessWidget {
   static const botoes = [
     BotaoRede(
       icone: Bootstrap.linkedin,
-      url: 'https://www.linkedin.com/in/jean-carlo-dev/',
+      url: 'https://www.linkedin.com/in/gustavo-mesquita-a7075b209/',
     ),
     BotaoRede(
       icone: Bootstrap.github,
-      url: 'https://github.com/jeancarlopolo',
+      url: 'https://github.com/gustavochm1412/Projeto-AEP',
     ),
   ];
 
